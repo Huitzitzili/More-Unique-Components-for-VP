@@ -26,6 +26,7 @@ v30:
 	- Pogost ==> reduced city connection gold on stage 2 (5% on all stages now)
 	- Tersane ==> added 30% production to naval ranged units
 - New icon for Cacador
+- New icon for Etemenanki
 
 v29:
 - cleaned (Zulu, Huns),
